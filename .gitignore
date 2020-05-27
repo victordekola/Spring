@@ -27,11 +27,7 @@ build/
 nbbuild/
 dist/
 nbdist/
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
+.nb-gradle/
 
 
 ### VS Code ###
